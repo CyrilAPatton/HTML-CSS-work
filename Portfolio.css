@@ -1,0 +1,165 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.headthing {
+	background-color: rgba(200,200,200,.8);
+	height: 50px;
+	width: 950px;
+}
+.newheadthing {
+	background-color: rgba(200,200,200,.8);
+	height: 50px;
+	width: 950px;
+	display: inline-block;
+}
+.Header {
+	font-size: 40px;
+	margin-left: 17px;
+	font-style: italic;
+}
+.Header2 {
+	font-size: 40px;
+	margin-right: 5px;
+	font-style: italic;
+	margin-bottom: 0px;
+}
+.background {
+  	background-image: radial-gradient(rgb(100,45,110), rgb(70,26,80), rgb(33,12,36));
+	background-color: rgb(44,16,48);
+	width: 950px;
+	height: 950px;
+	display: inline-block;
+}
+#MainImage {
+	display: inline-block;
+	height: 263px;
+	width: 400px;
+	margin: 5px;
+	border: solid gray;
+	border-width: 4px;
+	margin-left: 17px;
+	margin-top: 17px;
+}
+.AboutHeader {
+	background-image: linear-gradient(rgb(165,165,165), rgb(220,220,220), rgb(165,165,165));
+	/*background-color: rgba(200,200,200,0.8);*/
+	height: 35px;
+	width: 481px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 17px;
+	margin-left: 11px;
+}
+.AboutTitle {
+	font-size: 20px;
+	color: white;
+
+}
+.AboutBlock {
+	background-image: linear-gradient(to right, rgb(165,165,165), rgb(220,220,220));
+	width: 481px;
+	height: 236px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 12px;
+}
+.Headers1 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 17px;
+	margin-top: 7px;
+}
+.Headers2 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 9px;
+	margin-top: 7px;
+}
+.Headers3 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 8px;
+	margin-top: 7px;
+}
+.image {
+	display: inline-block;
+	vertical-align: top;
+	width: 295px;
+	height: 160px;
+	margin-top: 17px;
+}
+.textblock {
+	background-image: linear-gradient(to right, rgb(165,165,165), rgb(220,220,220));
+	display: inline-block;
+	vertical-align: top;
+	width: 295px;
+	height: 200px;
+}
+.Hehe1 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.Hehe2 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.Hehe3 {
+	background-image: linear-gradient(to left, rgb(100,100,100), rgb(180,180,180));
+	width: 295px;
+	height: 35px;
+	display: inline-block;
+	margin-left: 0px;
+	margin-top: 0px;
+}
+.lastimage {
+	display: inline-block;
+	vertical-align: top;
+	width: 40px;
+	height: 40px;
+	padding-top: 8px;
+	padding-left: 8px;
+}
+.centertext {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px
+	vertical-align: top;
+}
+.reallastimage {
+	display: inline-block;
+	vertical-align: bottom;
+	width: 15px;
+	height: 15px;
+	padding-top: 10px;
+	padding-left: 0px;
+	margin-left: 420px;
+}
+.lasttext {
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px
+	vertical-align: bottom;
+	margin-top: -15px;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+
+
+
+
